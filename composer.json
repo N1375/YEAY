@@ -2,7 +2,7 @@
     "name": "n1375/yeay",
     "description": "A modular PHP framework",
     "version": "0.0.1",
-    "license": "GNU GPLv3",
+    "license": "GPL-3.0",
     "type": "library",
     "autoload": {
         "psr-4": {
