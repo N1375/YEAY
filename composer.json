@@ -1,0 +1,20 @@
+{
+    "name": "n1375/yeay",
+    "description": "A modular PHP framework",
+    "version": "0.0.1",
+    "license": "GNU GPLv3",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "N1375\\Yeay\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "N1375"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "10"
+    }
+}
